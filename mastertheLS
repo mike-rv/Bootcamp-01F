@@ -1,0 +1,1 @@
+ls -A -m -t -p --indicator-style=slash | sed 's/ //g'
